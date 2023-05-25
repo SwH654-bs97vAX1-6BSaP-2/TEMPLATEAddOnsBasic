@@ -7995,7 +7995,7 @@
             }
           ],
           "rotation": 0,
-          "class": "zone",
+          "type": "zone",
           "width": 703.271673444781
         },
         {
@@ -8013,7 +8013,7 @@
             }
           ],
           "rotation": 0,
-          "class": "area",
+          "type": "area",
           "width": 91.6083916083916
         }
       ],
@@ -10019,12 +10019,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.9.2",
+  "tiledversion": "1.8.4",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "club-house-chunk-1-08641ff3.png",
+      "image": "club-house-chunk-1-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10110,7 +10110,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "club-house-chunk-2-08641ff3.png",
+      "image": "club-house-chunk-2-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10125,7 +10125,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "club-house-chunk-3-08641ff3.png",
+      "image": "club-house-chunk-3-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10140,7 +10140,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "club-house-chunk-4-08641ff3.png",
+      "image": "club-house-chunk-4-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10155,7 +10155,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "club-house-chunk-5-08641ff3.png",
+      "image": "club-house-chunk-5-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10170,7 +10170,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "club-house-chunk-6-08641ff3.png",
+      "image": "club-house-chunk-6-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10185,7 +10185,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "club-house-chunk-7-08641ff3.png",
+      "image": "club-house-chunk-7-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10200,7 +10200,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "club-house-chunk-8-08641ff3.png",
+      "image": "club-house-chunk-8-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10215,7 +10215,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "club-house-chunk-9-08641ff3.png",
+      "image": "club-house-chunk-9-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10230,7 +10230,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "club-house-chunk-10-08641ff3.png",
+      "image": "club-house-chunk-10-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10245,7 +10245,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "club-house-chunk-11-08641ff3.png",
+      "image": "club-house-chunk-11-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10260,7 +10260,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "club-house-chunk-12-08641ff3.png",
+      "image": "club-house-chunk-12-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10275,7 +10275,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "club-house-chunk-13-08641ff3.png",
+      "image": "club-house-chunk-13-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10290,7 +10290,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "club-house-chunk-14-08641ff3.png",
+      "image": "club-house-chunk-14-e5e667b8.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10305,7 +10305,7 @@
     {
       "columns": 3,
       "firstgid": 3585,
-      "image": "club-house-chunk-15-08641ff3.png",
+      "image": "club-house-chunk-15-e5e667b8.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
@@ -10345,6 +10345,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.9",
+  "version": "1.8",
   "width": 60
 }
