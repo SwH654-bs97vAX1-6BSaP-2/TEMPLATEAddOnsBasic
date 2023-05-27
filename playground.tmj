@@ -3049,7 +3049,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-1"
+                         "value":"#entry\/entry-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3066,7 +3066,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-2"
+                         "value":"#entry\/entry-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3083,7 +3083,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-3"
+                         "value":"#entry\/entry-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3100,7 +3100,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-4"
+                         "value":"#entry\/entry-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3117,7 +3117,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-5"
+                         "value":"#entry\/entry-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3134,7 +3134,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-6"
+                         "value":"#entry\/entry-6"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3151,7 +3151,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-7"
+                         "value":"#entry\/entry-7"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3168,7 +3168,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-8"
+                         "value":"#entry\/entry-8"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3185,7 +3185,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-9"
+                         "value":"#entry\/entry-9"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3202,7 +3202,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-8"
+                         "value":"#entry\/entry-8"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3219,7 +3219,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-7"
+                         "value":"#entry\/entry-7"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3236,7 +3236,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-6"
+                         "value":"#entry\/entry-6"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3253,7 +3253,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-5"
+                         "value":"#entry\/entry-5"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3270,7 +3270,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-4"
+                         "value":"#entry\/entry-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3372,7 +3372,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-hammock-1"
+                         "value":"#entry\/entry-hammock-1"
                         }],
                  "rotation":357.908040192352,
                  "type":"area",
@@ -3389,7 +3389,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-hammock-2"
+                         "value":"#entry\/entry-hammock-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3406,7 +3406,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-hammock-3"
+                         "value":"#entry\/entry-hammock-3"
                         }],
                  "rotation":1.28757545751086,
                  "type":"area",
@@ -3423,7 +3423,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-hammock-2"
+                         "value":"#entry\/entry-hammock-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3440,7 +3440,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-hammock-4"
+                         "value":"#entry\/entry-hammock-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3457,7 +3457,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"playground.tmj#entry\/entry-fire-station"
+                         "value":"#entry\/entry-fire-station"
                         }],
                  "rotation":0,
                  "type":"area",
