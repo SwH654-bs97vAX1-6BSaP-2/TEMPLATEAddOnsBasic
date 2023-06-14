@@ -15675,7 +15675,7 @@
             }
           ],
           "rotation": 0,
-          "type": "zone",
+          "class": "zone",
           "width": 1072.48350285463
         },
         {
@@ -15689,11 +15689,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": ""
+              "value": "https://play.workadventu.re/@/workspacesky/100-roads-design/forest-school-premium#entry-from-maker-space"
             }
           ],
           "rotation": 0,
-          "type": "area",
+          "class": "area",
           "width": 224.867724867725
         },
         {
@@ -15707,11 +15707,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": ""
+              "value": "https://play.workadventu.re/@/workspacesky/100-roads-design/forest-school-premium#entry-from-maker-space"
             }
           ],
           "rotation": 0,
-          "type": "area",
+          "class": "area",
           "width": 195.360470492471
         },
         {
@@ -15725,11 +15725,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": ""
+              "value": "https://play.workadventu.re/@/workspacesky/100-roads-design/forest-school-premium#entry-from-maker-space"
             }
           ],
           "rotation": 0,
-          "type": "area",
+          "class": "area",
           "width": 226.902531542532
         }
       ],
@@ -19655,12 +19655,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.8.4",
+  "tiledversion": "1.9.2",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "maker-space-chunk-1-3cd793bc.png",
+      "image": "maker-space-chunk-1-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19686,7 +19686,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "maker-space-chunk-2-3cd793bc.png",
+      "image": "maker-space-chunk-2-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19701,7 +19701,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "maker-space-chunk-3-3cd793bc.png",
+      "image": "maker-space-chunk-3-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19716,7 +19716,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "maker-space-chunk-4-3cd793bc.png",
+      "image": "maker-space-chunk-4-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19731,7 +19731,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "maker-space-chunk-5-3cd793bc.png",
+      "image": "maker-space-chunk-5-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19746,7 +19746,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "maker-space-chunk-6-3cd793bc.png",
+      "image": "maker-space-chunk-6-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19761,7 +19761,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "maker-space-chunk-7-3cd793bc.png",
+      "image": "maker-space-chunk-7-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19776,7 +19776,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "maker-space-chunk-8-3cd793bc.png",
+      "image": "maker-space-chunk-8-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19791,7 +19791,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "maker-space-chunk-9-3cd793bc.png",
+      "image": "maker-space-chunk-9-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19806,7 +19806,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "maker-space-chunk-10-3cd793bc.png",
+      "image": "maker-space-chunk-10-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19821,7 +19821,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "maker-space-chunk-11-3cd793bc.png",
+      "image": "maker-space-chunk-11-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19836,7 +19836,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "maker-space-chunk-12-3cd793bc.png",
+      "image": "maker-space-chunk-12-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19851,7 +19851,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "maker-space-chunk-13-3cd793bc.png",
+      "image": "maker-space-chunk-13-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19866,7 +19866,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "maker-space-chunk-14-3cd793bc.png",
+      "image": "maker-space-chunk-14-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19881,7 +19881,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "maker-space-chunk-15-3cd793bc.png",
+      "image": "maker-space-chunk-15-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19896,7 +19896,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "maker-space-chunk-16-3cd793bc.png",
+      "image": "maker-space-chunk-16-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19911,7 +19911,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "maker-space-chunk-17-3cd793bc.png",
+      "image": "maker-space-chunk-17-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19926,7 +19926,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "maker-space-chunk-18-3cd793bc.png",
+      "image": "maker-space-chunk-18-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19941,7 +19941,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "maker-space-chunk-19-3cd793bc.png",
+      "image": "maker-space-chunk-19-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19956,7 +19956,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "maker-space-chunk-20-3cd793bc.png",
+      "image": "maker-space-chunk-20-0ddfe639.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19996,6 +19996,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.8",
+  "version": "1.9",
   "width": 78
 }

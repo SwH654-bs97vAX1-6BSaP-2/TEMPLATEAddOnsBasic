@@ -7995,7 +7995,7 @@
             }
           ],
           "rotation": 0,
-          "type": "zone",
+          "class": "zone",
           "width": 703.271673444781
         },
         {
@@ -8009,11 +8009,11 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": ""
+              "value": "https://play.workadventu.re/@/workspacesky/100-roads-design/forest-school-premium#entry-from-club-house"
             }
           ],
           "rotation": 0,
-          "type": "area",
+          "class": "area",
           "width": 91.6083916083916
         }
       ],
@@ -10019,12 +10019,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.8.4",
+  "tiledversion": "1.9.2",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "club-house-chunk-1-9176ee5c.png",
+      "image": "club-house-chunk-1-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10110,7 +10110,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "club-house-chunk-2-9176ee5c.png",
+      "image": "club-house-chunk-2-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10125,7 +10125,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "club-house-chunk-3-9176ee5c.png",
+      "image": "club-house-chunk-3-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10140,7 +10140,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "club-house-chunk-4-9176ee5c.png",
+      "image": "club-house-chunk-4-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10155,7 +10155,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "club-house-chunk-5-9176ee5c.png",
+      "image": "club-house-chunk-5-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10170,7 +10170,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "club-house-chunk-6-9176ee5c.png",
+      "image": "club-house-chunk-6-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10185,7 +10185,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "club-house-chunk-7-9176ee5c.png",
+      "image": "club-house-chunk-7-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10200,7 +10200,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "club-house-chunk-8-9176ee5c.png",
+      "image": "club-house-chunk-8-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10215,7 +10215,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "club-house-chunk-9-9176ee5c.png",
+      "image": "club-house-chunk-9-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10230,7 +10230,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "club-house-chunk-10-9176ee5c.png",
+      "image": "club-house-chunk-10-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10245,7 +10245,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "club-house-chunk-11-9176ee5c.png",
+      "image": "club-house-chunk-11-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10260,7 +10260,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "club-house-chunk-12-9176ee5c.png",
+      "image": "club-house-chunk-12-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10275,7 +10275,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "club-house-chunk-13-9176ee5c.png",
+      "image": "club-house-chunk-13-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10290,7 +10290,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "club-house-chunk-14-9176ee5c.png",
+      "image": "club-house-chunk-14-d6194dbf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10305,7 +10305,7 @@
     {
       "columns": 3,
       "firstgid": 3585,
-      "image": "club-house-chunk-15-9176ee5c.png",
+      "image": "club-house-chunk-15-d6194dbf.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,
@@ -10345,6 +10345,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.8",
+  "version": "1.9",
   "width": 60
 }
