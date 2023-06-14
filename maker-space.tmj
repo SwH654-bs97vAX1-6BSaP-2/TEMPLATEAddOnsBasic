@@ -252,6 +252,7 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"zone",
                  "height":1033.63045790546,
                  "id":1,
                  "name":"focus",
@@ -267,13 +268,13 @@
                          "value":0
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":1072.48350285463,
                  "x":702.969450101833,
                  "y":427.666242264747
                 }, 
                 {
+                 "class":"area",
                  "height":34.5950345950346,
                  "id":2,
                  "name":"exit-to-map",
@@ -281,16 +282,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/forest-school-premium#entry-from-maker-space"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":224.867724867725,
                  "x":831.298331298331,
                  "y":1407.20390720391
                 }, 
                 {
+                 "class":"area",
                  "height":34.595,
                  "id":3,
                  "name":"exit-to-map",
@@ -298,16 +299,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/forest-school-premium#entry-from-maker-space"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":195.360470492471,
                  "x":1150.28476271876,
                  "y":1406.18642348392
                 }, 
                 {
+                 "class":"area",
                  "height":34.595,
                  "id":4,
                  "name":"exit-to-map",
@@ -315,10 +316,9 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/forest-school-premium#entry-from-maker-space"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":226.902531542532,
                  "x":1436.71153439153,
@@ -411,7 +411,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -465,6 +465,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":78
 }
